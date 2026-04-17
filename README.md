@@ -1,0 +1,2 @@
+# U.S.-Trade-Flow-Composition-Analysis-Visualization-2020-2024-
+The U.S., one of the world’s largest economies, plays a key role in global trade. This presentation analyzes its trade network (2020–2024), focusing on general imports, domestic exports, and foreign exports. Using data visualization and network analysis, it highlights key partners, market shifts, port performance, and strategic trade insights.
